@@ -59,5 +59,5 @@ cd Projeto_Athia
 # Inicie Apache e MySQL pelo XAMPP
 
 # No navegador, acesse:
-http://localhost/Projeto_Athia
+http://localhost/projetoathia/
 

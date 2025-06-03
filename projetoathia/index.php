@@ -24,7 +24,7 @@ $db = $dbClass->getConnection();
 $request = $_SERVER['REQUEST_URI'];
 $request = parse_url($request, PHP_URL_PATH);
 
-$basePath = '/projetoathia';  // Sua pasta no htdocs
+$basePath = '/projetoathia';  // Pasta no htdocs
 
 if (strpos($request, $basePath) === 0) {
     $request = substr($request, strlen($basePath));

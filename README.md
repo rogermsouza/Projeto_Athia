@@ -61,3 +61,5 @@ cd Projeto_Athia
 # No navegador, acesse:
 http://localhost/projetoathia/
 
+### Url para conferir o projeto funcionando e realizar testes online:
+https://sejamobile.com.br/projetoathia/
